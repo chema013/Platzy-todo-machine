@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Platzy-todo-machine/static/css/main.dc096ef3.css",
+    "main.js": "/Platzy-todo-machine/static/js/main.fdf7a3f5.js",
+    "index.html": "/Platzy-todo-machine/index.html",
+    "static/media/delete.svg": "/Platzy-todo-machine/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/Platzy-todo-machine/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.dc096ef3.css.map": "/Platzy-todo-machine/static/css/main.dc096ef3.css.map",
+    "main.fdf7a3f5.js.map": "/Platzy-todo-machine/static/js/main.fdf7a3f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc096ef3.css",
+    "static/js/main.fdf7a3f5.js"
+  ]
+}
