@@ -2,8 +2,14 @@
   "name": "platzi-intro-react-base",
   "version": "0.1.0",
   "dependencies": {
+    "@contentful/rich-text-html-renderer": "^16.1.1",
+    "@contentful/rich-text-react-renderer": "^15.17.1",
+    "@contentful/rich-text-types": "^16.2.1",
+    "contentful": "^10.4.0",
     "react": "^18",
+    "react-contentful": "^2.0.31",
     "react-dom": "^18",
+    "react-icons": "^4.10.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },

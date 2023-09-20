@@ -1,0 +1,31 @@
+.Script1 {
+  color: #54aedc;
+}
+
+.blackText {
+  color: #000000;
+}
+
+.ScritContent {
+  height: 100%;
+  margin: 0 auto;
+  width: 300px;
+  -webkit-text-size-adjust: none;
+  font-family: sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.ScriptList {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.ScriptListLi {
+  list-style: none;
+}
+
+.ScriptList .ScriptListLi .Script1 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
